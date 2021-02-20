@@ -1,0 +1,15 @@
+<meta>
+       <info author="MANAWYDANbr" description="Barra de chackra agregada a mta" type="script" version="0.01" /> 
+
+            <script src="server_bar.lua" type="server" />  
+            <script src="client_bar.lua" type="client"  cache ="false"/>   
+
+            <export function="Diminuirchakra" type="server" /> 
+            <export function="ischakraSuficientePara" type="server" /> 
+            <export function="RemoverBarra" type="server" /> 
+            <export function="getChakraPlayer" type="server" />  
+            <export function="addPlayerchakra" type="server" /> 
+            <export function="ischakraSuficientePara" type="client" /> 
+            <export function="Diminuirchakra" type="client" /> 
+
+</meta>
