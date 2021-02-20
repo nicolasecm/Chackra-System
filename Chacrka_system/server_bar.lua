@@ -1,4 +1,4 @@
--- chakra_s by manawydan
+-- chakra_s by manawydan  
 
 function Diminuirchakra(thePlayer,N)
 	if thePlayer and N and tonumber(N) and getElementData(thePlayer,"chakra") then
