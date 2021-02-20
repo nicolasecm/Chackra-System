@@ -3,7 +3,7 @@ This repository its to download the resource Chackra System which is the creatio
 
 please don't forget the copyright when modifying these resources or using these
 
-##More Jutsus and Resources
+## More Jutsus and Resources
 
 don't forget to go to the [Youtube Channel](https://www.youtube.com/channel/UC1JWFFcM_wzmMkdCX4vxa1w) and like the videos and subscribe 
 
